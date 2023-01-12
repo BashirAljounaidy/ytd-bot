@@ -1,0 +1,4 @@
+
+pytube
+moviepy
+undetected_chromedriver
